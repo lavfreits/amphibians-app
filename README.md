@@ -17,6 +17,11 @@ Este é um projeto de aprendizado desenvolvido para explorar e praticar o uso de
 - **Coil**: Utilizado para carregar e exibir imagens de forma eficiente.
 - **Arquitetura MVVM**: Separação das responsabilidades em camadas distintas para facilitar a manutenção e escalabilidade.
 
+## Capturas de Tela
+<img src="home.png" alt="Captura de Tela" width="400" height="790">
+
+
+
 ## Instalação
 
 1. Clone o repositório
@@ -24,8 +29,3 @@ Este é um projeto de aprendizado desenvolvido para explorar e praticar o uso de
 3. Sincronize o projeto com o Gradle.
 4. Execute o aplicativo: selecione um dispositivo ou emulador e clique em "Run".
 
-## Uso
-O aplicativo carrega uma lista de anfíbios de uma API e exibe os detalhes de cada anfíbio quando selecionado. Você pode:
-
-- Ver a lista completa de anfíbios.
-- Tocar em um anfíbio para ver mais detalhes sobre ele.
