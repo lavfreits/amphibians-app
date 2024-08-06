@@ -17,7 +17,7 @@ Este é um projeto de aprendizado desenvolvido para explorar e praticar o uso de
 - **Arquitetura MVVM**: Separação das responsabilidades em camadas distintas para facilitar a manutenção e escalabilidade.
 
 ## Capturas de Tela
-![amphibians APP](https://raw.githubusercontent.com/.gif)
+![Amphibians App](https://raw.githubusercontent.com/lavfreits/amphibians-app/master/screen_recording.gif)
 
 
 ## Instalação
