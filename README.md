@@ -7,7 +7,6 @@ Este é um projeto de aprendizado desenvolvido para explorar e praticar o uso de
 1. [Recursos](#recursos)
 2. [Capturas de Tela](#capturas-de-tela)
 3. [Instalação](#instalação)
-4. [Uso](#uso)
 
 
 ## Recursos
@@ -18,8 +17,7 @@ Este é um projeto de aprendizado desenvolvido para explorar e praticar o uso de
 - **Arquitetura MVVM**: Separação das responsabilidades em camadas distintas para facilitar a manutenção e escalabilidade.
 
 ## Capturas de Tela
-<img src="home.png" alt="Captura de Tela" width="400" height="790">
-
+![amphibians APP](https://raw.githubusercontent.com/.gif)
 
 
 ## Instalação

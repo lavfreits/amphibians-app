@@ -19,7 +19,12 @@ fun HomeScreen(
     ) {
   when (uiState) {
     is UiState.Success -> {
-        AmphibiansList(amphibians = uiState.amphibians, modifier = modifier, onclick = onclick, contentPadding = contentPadding)
+        AmphibiansList(
+            amphibians = uiState.amphibians,
+            modifier = modifier,
+            onclick = onclick,
+            contentPadding = contentPadding
+        )
     }
     is UiState.Error -> {
     ErrorScreen(retryAction , modifier = modifier)
